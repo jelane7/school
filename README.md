@@ -52,6 +52,9 @@ The airfield that was present on the island is no longer there, but can you spot
 
 ![map](1957aerialweeden detail.jpg) 
 
+Have the shell mounds changed over time? What could have happened?
+![map](dEMmissingmound.jpg)
+
 Citations:
 2007 FDEM Lidar: Southwest Florida
 Southwest FL Water Management District, FL Division of Emergency Management, FL Fish and Wildlife Conservation Commission, FL Department of Environmental Protection [found here](https://coast.noaa.gov/dataviewer/#/)
