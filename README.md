@@ -6,7 +6,7 @@ Weeden Island is a Natural Preserve as well as an Archaeological Site.
 
 Where is Weedon Island?
 
- [Map](school/page3.html) 
+ [Map](page3.html) 
 
 What is Remote Sen
 
