@@ -49,4 +49,4 @@ In 1943, the U.S. Department of Agriculture collected aerial imagry.
 
 Citations:
 2007 FDEM Lidar: Southwest Florida
-Southwest FL Water Management District, FL Division of Emergency Management, FL Fish and Wildlife Conservation Commission, FL Department of Environmental Protection [Link](https://coast.noaa.gov/dataviewer/#/)
+Southwest FL Water Management District, FL Division of Emergency Management, FL Fish and Wildlife Conservation Commission, FL Department of Environmental Protection [found here](https://coast.noaa.gov/dataviewer/#/)
