@@ -33,7 +33,7 @@ What data is available for Remote Sensing?
 
 Lidar data is available from the NOAA Office of Coastal Management. This data can be used to develop a Digital Elevation Model (DEM) showing the elevation, or topography, of the island.
 
-![map](weedenmoundFLMem.jpg)
+![map](weedenDEMcrop.jpg)
 
 **Bold** and _Italic_ and `Code` text
 
