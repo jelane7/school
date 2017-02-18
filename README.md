@@ -7,13 +7,12 @@ Archaeologists use many different kinds of tools to 'dig' up the past. Beyond ex
 
 **What is Remote Sensing?**
 
-Remote Sensing
+*Remote Sensing*
 noun 
 1. the use of an instrument, such as a radar device or camera, to scan the earth 
 or another planet from space in order to collect data about some aspect of it
 
 Weedon Island is a Natural, Archaeological, and Historical Preserve Site
-
 ![map](weedenmoundFLMem.jpg)
 
 
@@ -23,7 +22,6 @@ Weedon Island is a Natural, Archaeological, and Historical Preserve Site
 - interpretive museum
 
 In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric shell mounds on the island.
-
 ![map](1924Fewkesmap.jpg)
 
 **Where is Weedon Island?**
