@@ -12,11 +12,6 @@ Where is Weedon Island?
 What is Remote Sensing?
 
 
-remote sensing
-noun
-1. the use of an instrument, such as a radar device or camera, to scan the earth or another planet from space in order to collect data about some aspect of it
-
-
 ```markdown
 remote sensing
 noun
@@ -36,6 +31,12 @@ noun
 
 [Link](url) and ![Image](src)
 ```
+How has Weedon Island changed over time?
+
+In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric shell mounds on the island.
+
+![map](1924Fewkesmap.jpg)
+
 
 ![map](1924Fewkesmap.jpg)
 
