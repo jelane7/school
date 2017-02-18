@@ -22,6 +22,10 @@ Weedon Island is a Natural, Archaeological, and Historical Preserve Site
 - historic airfield
 - interpretive museum
 
+In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric shell mounds on the island.
+
+![map](1924Fewkesmap.jpg)
+
 Where is Weedon Island?
 
  [Map](page3.html) 
@@ -31,10 +35,6 @@ What data is available for Remote Sensing?
 Lidar data is available from the NOAA Office of Coastal Management. This data can be used to develop a Digital Elevation Model (DEM) showing the elevation, or topography, of the island.
 
 ![map](weedenDEMcrop.jpg)
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
 How has Weedon Island changed over time?
 
