@@ -1,4 +1,4 @@
-### More Than Mapping: How Can Remote Sensing Be Useful To Archaeologists?
+###More Than Mapping: How Can Remote Sensing Be Useful To Archaeologists?
 
 #Weeden Island and Remote Sensing
 
@@ -6,9 +6,9 @@ Weeden Island is a Natural Preserve as well as an Archaeological Site.
 
 Where is Weedon Island?
 
- [Link](school/page3.html) and ![Image](src) 
+ [Map](school/page3.html) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+What is Remote Sen
 
 ```markdown
 Syntax highlighted code block
