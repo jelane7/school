@@ -5,7 +5,8 @@
 
 Weedon Island is a Natural, Archaeological, and Historical Preserve Site
 
-![map](1924Fewkesmap.jpg)
+![map](weedenmoundFLMem.jpg)
+
 
 - prehistoric shell mounds and village site
 - historic homesteads
