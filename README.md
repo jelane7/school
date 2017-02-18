@@ -35,7 +35,7 @@ In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric sh
 
 Aerial Photographs from the 1940s to the present are available for Florida
 
-In 1943, the U.S. Department of Agriculture collected aerial imagry:
+In 1943, the U.S. Department of Agriculture collected aerial imagery [link](http://ufdc.ufl.edu/UF00071777/00004):
 ![map](1943aerialweeden.jpg)
 
 Aerial image from 1957, aslo collected by the U.S. Department of Agriculture:
