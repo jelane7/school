@@ -3,13 +3,19 @@
 
 ###More Than Mapping: How Can Remote Sensing Be Useful To Archaeologists?
 
-Weedon Island is a Natural Preserve as well as an Archaeological Site.
+Weedon Island is a Natural Preserve, an Archaeological Site.
 
 Where is Weedon Island?
 
  [Map](page3.html) 
 
-What is Remote Sen
+What is Remote Sensing?
+
+
+remote sensing
+noun
+1. the use of an instrument, such as a radar device or camera, to scan the earth or another planet from space in order to collect data about some aspect of it
+
 
 ```markdown
 Syntax highlighted code block
