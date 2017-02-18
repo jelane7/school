@@ -37,11 +37,11 @@ In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric sh
 
 ![map](1924Fewkesmap.jpg)
 
+In 1943, the U.S. Department of Agriculture collected aerial imagry.
 
-![map](1924Fewkesmap.jpg)
+![map](1943aerialweeden.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+Can you spot 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jelane7/school/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
