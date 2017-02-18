@@ -54,6 +54,7 @@ The airfield that was present on the island is no longer there, but can you spot
 
 Have the shell mounds changed over time? What could have happened?
 ![map](demmissing2.jpg)
+
 ![map](dEMmissingmound.jpg)
 
 Citations:
