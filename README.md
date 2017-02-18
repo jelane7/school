@@ -27,7 +27,7 @@ Weedon Island is a Natural, Archaeological, and Historical Preserve Site (photo 
 - historic airfield
 - interpretive museum
 
-In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric shell mounds on the island (map from State of Florida, Archives, Florida Memory project [(https://www.floridamemory.com/items/show/31951)])
+In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric shell mounds on the island [map from State of Florida, Archives, Florida Memory project](https://www.floridamemory.com/items/show/31951)]
 ![map](1924Fewkesmap.jpg)
 
 
