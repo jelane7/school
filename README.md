@@ -20,6 +20,7 @@ or another planet from space in order to collect data about some aspect of it
  
 Weedon Island is a Natural, Archaeological, and Historical Preserve Site
 ![map](weedenmoundFLMem.jpg)
+photo from State of Florida Archivies, Florida Memory project
 
 - prehistoric shell mounds and village site
 - historic homesteads
@@ -28,6 +29,7 @@ Weedon Island is a Natural, Archaeological, and Historical Preserve Site
 
 In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric shell mounds on the island.
 ![map](1924Fewkesmap.jpg)
+map from State of Florida, Archives, Florida Memory project
 
 **What Remote Sensing data is available for Weedon Island?**
 
