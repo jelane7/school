@@ -3,6 +3,31 @@
 
 ###More Than Mapping: How Can Remote Sensing Be Useful To Archaeologists?
 
+Archaeologists use many different kinds of tools to 'dig' up the past. Beyond excavation, or laboratory analysis, there are other tools available that help answer questions about the past or study historic or prehistoric sites. Remote Sensing is one such technique that helps investigate sites.
+
+What is Remote Sensing?
+
+
+```markdown
+remote sensing
+noun
+1. the use of an instrument, such as a radar device or camera, to scan the earth 
+or another planet from space in order to collect data about some aspect of it
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 Weedon Island is a Natural, Archaeological, and Historical Preserve Site
 
 ![map](weedenmoundFLMem.jpg)
