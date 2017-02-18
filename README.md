@@ -36,7 +36,7 @@ What data is available for Remote Sensing?
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 How has Weedon Island changed over time?
 
 In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric shell mounds on the island.
@@ -50,3 +50,7 @@ In 1943, the U.S. Department of Agriculture collected aerial imagry.
 Citations:
 2007 FDEM Lidar: Southwest Florida
 Southwest FL Water Management District, FL Division of Emergency Management, FL Fish and Wildlife Conservation Commission, FL Department of Environmental Protection [found here](https://coast.noaa.gov/dataviewer/#/)
+
+Historical Aerial Photography of Florida, University of Florida Digital Collections [found here](http://ufdc.ufl.edu/aerials)
+
+Historic Photographs, State Archives of Florida, Florida Memory Project [found here](https://www.floridamemory.com/items/show/152491)
