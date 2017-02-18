@@ -15,9 +15,8 @@ Archaeologists use many different kinds of tools to 'dig' up the past. Beyond ex
 or another planet from space in order to collect data about some aspect of it
 
 **Where is Weedon Island?**
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8243.636403595168!2d-82.61383177507506!3d27.850966692113822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2e721d8e6e643%3A0xa06c4ada5e570c28!2sWeedon+Island+Preserve!5e1!3m2!1sen!2sus!4v1487448314766" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
- [Map](page3.html) 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d8247.536730649881!2d-82.61079702536902!3d27.850854971763624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1487448504256" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ [Map Link](page3.html) 
  
 Weedon Island is a Natural, Archaeological, and Historical Preserve Site (photo from State of Florida Archivies, Florida Memory project)
 ![map](weedenmoundFLMem.jpg)
