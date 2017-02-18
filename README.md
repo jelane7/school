@@ -48,7 +48,7 @@ In 1943, the U.S. Department of Agriculture collected aerial imagery [link](http
 Aerial image from 1957, aslo collected by the U.S. Department of Agriculture [link](http://ufdc.ufl.edu/UF00071777/00009):
 ![map](1943aerialweeden.jpg)
 
-Lidar data, or aerial laser scanning of the ground surface, is available from the NOAA Office of Coastal Management. This data can be used to develop a Digital Elevation Model (DEM) showing the elevation, or topography, of the island. 
+Lidar data, which was collected from aerial laser scanning of the ground surface, is available from the NOAA Office of Coastal Management. This data can be used to develop a Digital Elevation Model (DEM) showing the topography and features of the island. On this particular elevation model, areas of higher elevation show up in red, sloping down to yellow, while the blue color depicts lower, water level, elevations.
 
 Can you spot modern additions to the island? What about the shell mounds, are they still present?
 
@@ -61,7 +61,11 @@ The airfield that was present on the island is no longer there, but can you find
 
 ![map](1957aerialweeden detail.jpg) 
 
-Have the shell mounds changed over time? What could have happened?
+The DEM and a modern aerial image show a parking lot, visitor center, and museum near where the airport was, but the airfield is not readily visible. However, the older aerial images show features associated with the historic airfield.
+
+![map](airport.jpg) 
+
+What about the prehistoric sites at Weedon Island? Have the shell mounds changed over time? What might have happened to alter them?
 ![map](demmissing2.jpg)
 ![map](dEMmissingmound.jpg)
 
