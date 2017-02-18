@@ -22,12 +22,12 @@ or another planet from space in order to collect data about some aspect of it
 - Thermal Imagery 
 
 **Where is Weedon Island?**
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d8247.536730649881!2d-82.61079702536902!3d27.850854971763624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1487448504256" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d14110.409703360427!2d-82.61622868146688!3d27.852759065637784!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1487458821976" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
  [Map Link](page3.html) 
  
 Weedon Island is a Natural, Archaeological, and Historical Preserve Site ([photo from State of Florida Archivies, Florida Memory project](https://www.floridamemory.com/items/show/152491))
 ![map](weedenmoundFLMem.jpg)
-
+1924 photograph of 
 
 - prehistoric shell mounds and village site
 - historic homesteads
