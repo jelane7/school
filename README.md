@@ -58,6 +58,7 @@ Have the shell mounds changed over time? What could have happened?
      ![map](demmissing2.jpg)
 ![map](dEMmissingmound.jpg)
 
+When the island was developed for homesteads, material from the shell mounds was used to build up the road
 Citations:
 NOAA Digital Coastal Data Viewer
 2007 FDEM Lidar: Southwest Florida
@@ -66,3 +67,5 @@ Southwest FL Water Management District, FL Division of Emergency Management, FL 
 Historical Aerial Photography of Florida, University of Florida Digital Collections [found here](http://ufdc.ufl.edu/aerials)
 
 Historic Photographs, State Archives of Florida, Florida Memory Project [found here](https://www.floridamemory.com/items/show/152491)
+
+Weedon Island Preserve [found here](http://www.weedonislandpreserve.org/)
