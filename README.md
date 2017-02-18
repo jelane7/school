@@ -43,8 +43,10 @@ Lidar data is available from the NOAA Office of Coastal Management. This data ca
 
 How has Weedon Island changed over time?
 
-The airfield that was present on the island is no longer there, but can you spot it on the 1943 aerial image?
+The airfield that was present on the island is no longer there, but can you spot it on the 1943 or 1957 aerial image?
 ![map](1943aerialweeden detail.jpg)
+
+![map](1957aerialweeden detail.jpg) 
 
 Citations:
 2007 FDEM Lidar: Southwest Florida
