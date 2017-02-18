@@ -9,6 +9,7 @@ Archaeologists use many different kinds of tools to 'dig' up the past. Beyond ex
 
 *Remote Sensing*
 noun 
+
 1. the use of an instrument, such as a radar device or camera, to scan the earth 
 or another planet from space in order to collect data about some aspect of it
 
