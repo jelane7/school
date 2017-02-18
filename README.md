@@ -27,7 +27,7 @@ Weedon Island is a Natural, Archaeological, and Historical Preserve Site
 In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric shell mounds on the island.
 ![map](1924Fewkesmap.jpg)
 
-**What data is available for Remote Sensing?**
+**What Remote Sensing data is available for Weedon Island?**
 
 Aerial Photographs from the 1940s to the present are available for Florida
 
