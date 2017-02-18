@@ -3,7 +3,15 @@
 
 ###More Than Mapping: How Can Remote Sensing Be Useful To Archaeologists?
 
-Weedon Island is a Natural Preserve, an Archaeological Site.
+Weedon Island is a Natural, Archaeological, and Historical Preserve Site
+
+![map](1924Fewkesmap.jpg)
+
+- prehistoric shell mounds
+- prehistoric village
+- historic homesteads
+- historic airfield
+
 
 Where is Weedon Island?
 
