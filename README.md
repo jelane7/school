@@ -34,7 +34,7 @@ Aerial Photographs from the 1940s to the present are available for Florida
 In 1943, the U.S. Department of Agriculture collected aerial imagry:
 ![map](1943aerialweeden.jpg)
 
-Aerial image from 1957, aslo collected by the U.S. Department of Agriculture collected aerial imagry:
+Aerial image from 1957, aslo collected by the U.S. Department of Agriculture:
 ![map](1943aerialweeden.jpg)
 
 Lidar data is available from the NOAA Office of Coastal Management. This data can be used to develop a Digital Elevation Model (DEM) showing the elevation, or topography, of the island.
