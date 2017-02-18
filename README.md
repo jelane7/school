@@ -1,14 +1,14 @@
 
-###**Weedon Island and Remote Sensing**
+**Weedon Island and Remote Sensing**
 
 How Can Remote Sensing Be Useful To Archaeologists?
 
 Archaeologists use many different kinds of tools to 'dig' up the past. Beyond excavation, or laboratory analysis, there are other tools available that help answer questions about the past or study historic or prehistoric sites. Remote Sensing is one such technique that can be used to investigate archaeological sites. Let's look at Weedon Island in Florida and see what Archaeology can investigate with Remote Sensing data.
 
-What is Remote Sensing?
+**What is Remote Sensing?**
 
-remote sensing
-noun
+Remote Sensing
+noun 
 1. the use of an instrument, such as a radar device or camera, to scan the earth 
 or another planet from space in order to collect data about some aspect of it
 
@@ -26,11 +26,19 @@ In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric sh
 
 ![map](1924Fewkesmap.jpg)
 
-Where is Weedon Island?
+**Where is Weedon Island?**
 
  [Map](page3.html) 
 
-What data is available for Remote Sensing?
+**What data is available for Remote Sensing?**
+
+Aerial Photographs from the 1940s to the present are available for Florida
+
+In 1943, the U.S. Department of Agriculture collected aerial imagry:
+![map](1943aerialweeden.jpg)
+
+Aerial image from 1957, aslo collected by the U.S. Department of Agriculture collected aerial imagry:
+![map](1943aerialweeden.jpg)
 
 Lidar data is available from the NOAA Office of Coastal Management. This data can be used to develop a Digital Elevation Model (DEM) showing the elevation, or topography, of the island.
 
@@ -38,13 +46,6 @@ Lidar data is available from the NOAA Office of Coastal Management. This data ca
 
 How has Weedon Island changed over time?
 
-In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric shell mounds on the island.
-
-![map](1924Fewkesmap.jpg)
-
-In 1943, the U.S. Department of Agriculture collected aerial imagry.
-
-![map](1943aerialweeden.jpg)
 
 Citations:
 2007 FDEM Lidar: Southwest Florida
