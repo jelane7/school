@@ -12,9 +12,12 @@ noun
 1. the use of an instrument, such as a radar device or camera, to scan the earth 
 or another planet from space in order to collect data about some aspect of it
 
+**Where is Weedon Island?**
+
+ [Map](page3.html) 
+ 
 Weedon Island is a Natural, Archaeological, and Historical Preserve Site
 ![map](weedenmoundFLMem.jpg)
-
 
 - prehistoric shell mounds and village site
 - historic homesteads
@@ -23,10 +26,6 @@ Weedon Island is a Natural, Archaeological, and Historical Preserve Site
 
 In 1924, archaeologists from the Smithsonian mapped and excavated prehistoric shell mounds on the island.
 ![map](1924Fewkesmap.jpg)
-
-**Where is Weedon Island?**
-
- [Map](page3.html) 
 
 **What data is available for Remote Sensing?**
 
