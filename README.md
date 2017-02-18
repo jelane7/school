@@ -1,8 +1,9 @@
+
+#Weedon Island and Remote Sensing
+
 ###More Than Mapping: How Can Remote Sensing Be Useful To Archaeologists?
 
-#Weeden Island and Remote Sensing
-
-Weeden Island is a Natural Preserve as well as an Archaeological Site.
+Weedon Island is a Natural Preserve as well as an Archaeological Site.
 
 Where is Weedon Island?
 
