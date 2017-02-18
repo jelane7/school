@@ -39,7 +39,9 @@ In 1943, the U.S. Department of Agriculture collected aerial imagry:
 Aerial image from 1957, aslo collected by the U.S. Department of Agriculture:
 ![map](1943aerialweeden.jpg)
 
-Lidar data, or aerial laser scanning of the ground surface, is available from the NOAA Office of Coastal Management. This data can be used to develop a Digital Elevation Model (DEM) showing the elevation, or topography, of the island. Can you spot modern additions to the island? What about the shell mounds, are they still present?
+Lidar data, or aerial laser scanning of the ground surface, is available from the NOAA Office of Coastal Management. This data can be used to develop a Digital Elevation Model (DEM) showing the elevation, or topography, of the island. 
+
+Can you spot modern additions to the island? What about the shell mounds, are they still present?
 
 ![map](weedenDEMcrop.jpg)
 
