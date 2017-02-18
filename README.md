@@ -26,7 +26,7 @@ or another planet from space in order to collect data about some aspect of it
  [Map Link](page3.html) 
  
 Weedon Island is a Natural, Archaeological, and Historical Preserve Site.
-This photograph from 1924 shows an early historic resident of the island near one of the prehistoric shell mounds ([photo from State of Florida Archivies, Florida Memory project](https://www.floridamemory.com/items/show/152491))
+This photograph from about 1923 shows Dr. Weedon, an early historic resident of the island, near one of the prehistoric shell mounds ([photo from State of Florida Archivies, Florida Memory project](https://www.floridamemory.com/items/show/152491))
 ![map](weedenmoundFLMem.jpg)
 
 Types of cultural resources present on the island include:
