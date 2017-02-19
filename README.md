@@ -52,7 +52,6 @@ In 1957, the U.S. Department of Agriculture took additional aerial photographs [
 Lidar data, which was collected from aerial laser scanning of the ground surface, is available from the NOAA Office of Coastal Management. This data can be used to develop a Digital Elevation Model (DEM) showing the topography and features of the island. On this particular elevation model, areas of higher elevation show up in red, sloping down to yellow, while the blue color depicts lower, water level, elevations.
 
 Can you spot modern additions to the island? What about the shell mounds, are they still present?
-
 ![map](weedenDEMcrop.jpg)
 
 How has Weedon Island changed over time?
