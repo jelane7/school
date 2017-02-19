@@ -74,7 +74,7 @@ When the island was developed for homesteads, material from the shell mounds was
 In 1955, the power plant came to Weedon Island. Can you see much alteration to the landscape?
 ![map](power.jpg)
 
-These were just a few examples of how an archaeologist might Remote Sensing data to answer questions about the past!
+These were just a few examples of how an archaeologist might use Remote Sensing data to answer questions about the past!
 
 Citations:
 
