@@ -63,7 +63,6 @@ The Grand Central Airport, later called Sky Harbor, was constructed on the islan
 ![map](1957aerialweeden detail.jpg) 
 
 The DEM and a modern aerial image show a parking lot, visitor center, and museum near where the airport was, but the airfield is not readily visible. However, the older aerial images show features associated with the historic airfield.
-
 ![map](airport.jpg) 
 
 What about the prehistoric sites at Weedon Island? Have the shell mounds changed over time? What might have happened to alter them?
@@ -73,6 +72,7 @@ What about the prehistoric sites at Weedon Island? Have the shell mounds changed
 When the island was developed for homesteads, material from the shell mounds was used to build up the road. The borrow area and road are evident on the Digital Elevation Model.
 
 In 1955, the power plant came to Weedon Island. Can you see much alteration to the landscape?
+![map](power.jpg)
 
 Citations:
 NOAA Digital Coastal Data Viewer
