@@ -47,17 +47,18 @@ In 1943, the U.S. Department of Agriculture collected this photo [link](http://u
 ![map](1943aerialweeden.jpg)
 
 In 1957, the U.S. Department of Agriculture took additional aerial photographs [link](http://ufdc.ufl.edu/UF00071777/00009):
-![map](1943aerialweeden.jpg)
+![map](1957aerialweeden.jpg)
 
 Lidar data, which was collected from aerial laser scanning of the ground surface, is available from the NOAA Office of Coastal Management. This data can be used to develop a Digital Elevation Model (DEM) showing the topography and features of the island. On this particular elevation model, areas of higher elevation show up in red, sloping down to yellow, while the blue color depicts lower, water level, elevations.
 
 Can you spot modern additions to the island? What about the shell mounds, are they still present?
+The power plant was constructed in 1955
 
 ![map](weedenDEMcrop.jpg)
 
 How has Weedon Island changed over time?
 
-The airfield that was present on the island is no longer there, but can you find out where it was from the 1943 or 1957 aerial image?
+The Grand Central Airport, later called Sky Harbor, was constructed on the island in 1929 and served Eastern Airlines. It operated through World War II. The airfield  has long since closed, but can you find out where it was from the 1943 or 1957 aerial image?
 ![map](1943aerialweeden detail.jpg)
 
 ![map](1957aerialweeden detail.jpg) 
