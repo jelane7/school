@@ -43,7 +43,7 @@ In 1924, archaeologists from the Smithsonian Institute mapped and excavated preh
 
 Aerial Photographs from the 1940s to the present are available for Florida
 
-In 1943, the U.S. Department of Agriculture collected this photo [link](http://ufdc.ufl.edu/UF00071777/00004):
+In 1943, the U.S. Department of Agriculture collected this aerial photograph [link](http://ufdc.ufl.edu/UF00071777/00004):
 ![map](1943aerialweeden.jpg)
 
 In 1957, the U.S. Department of Agriculture took additional aerial photographs [link](http://ufdc.ufl.edu/UF00071777/00009):
@@ -52,7 +52,6 @@ In 1957, the U.S. Department of Agriculture took additional aerial photographs [
 Lidar data, which was collected from aerial laser scanning of the ground surface, is available from the NOAA Office of Coastal Management. This data can be used to develop a Digital Elevation Model (DEM) showing the topography and features of the island. On this particular elevation model, areas of higher elevation show up in red, sloping down to yellow, while the blue color depicts lower, water level, elevations.
 
 Can you spot modern additions to the island? What about the shell mounds, are they still present?
-The power plant was constructed in 1955
 
 ![map](weedenDEMcrop.jpg)
 
@@ -72,6 +71,8 @@ What about the prehistoric sites at Weedon Island? Have the shell mounds changed
 ![map](dEMmissingmound.jpg)
 
 When the island was developed for homesteads, material from the shell mounds was used to build up the road. The borrow area and road are evident on the Digital Elevation Model.
+
+In 1955, the power plant came to Weedon Island. Can you see much alteration to the landscape?
 
 Citations:
 NOAA Digital Coastal Data Viewer
