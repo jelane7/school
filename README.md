@@ -68,14 +68,14 @@ What about the prehistoric sites at Weedon Island? Have the shell mounds changed
 ![map](demmissing2.jpg)
 ![map](dEMmissingmound.jpg)
 
-When the island was developed for homesteads, material from the shell mounds was used to build up the road. A gap in the shell mounds can be seen as a blue gab between the red shell mounds. The road is evident on the Digital Elevation Model to the southeast as a straight green line.
+When the island was developed for homesteads, material from the shell mounds was used to build up the road. A gap in the shell mounds can be seen as a blue (lower elevation) space between the red (higher elevation) shell mounds. The road is evident on the Digital Elevation Model to the southeast as a straight green line.
 
 In 1955, the power plant came to Weedon Island. Can you see much alteration to the landscape?
 ![map](power.jpg)
 
-These were just a few examples of how an archaeologist might use Remote Sensing data to answer questions about the past!
+These were just a few examples of how an archaeologist might use Remote Sensing data to answer questions about the past. Below are links to the data used here. 
 
-Citations:
+Links to Explore:
 
 NOAA Digital Coastal Data Viewer
 2007 FDEM Lidar: Southwest Florida
